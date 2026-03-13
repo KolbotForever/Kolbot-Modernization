@@ -1,0 +1,7 @@
+logs/
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+profiles/
+settings.json

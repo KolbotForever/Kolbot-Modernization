@@ -1,0 +1,10 @@
+# Core dependencies
+dearpygui>=1.11
+psutil>=5.9
+watchdog>=3.0
+pydantic>=2.5
+
+# Dev dependencies
+pytest>=7.0
+ruff>=0.1
+mypy>=1.7
